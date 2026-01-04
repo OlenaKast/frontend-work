@@ -86,6 +86,7 @@ const { register, handleSubmit, formState: { errors } } = useForm<LoginFormData>
 
 ### Список книг
 > ![4](/public/4.png)
+>![7](/public/7.png)
 
 ### Успішна реєстрація користувача
 > ![5](/public/5.png)
